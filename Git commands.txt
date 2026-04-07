@@ -1,0 +1,24 @@
+1st step -- git clone means "retrive the base code from git repository  ---- "url git link" then Click on enter
+
+
+2nd  step -- goto local reporitory -- Cd "Repository name"
+
+3rd Step -- Branch Creation --to create the local new branch-- git branch "branch name"
+
+4th Step -- Git checkout  -- To enter the New branch -- git checkout "branch name"
+
+5th Step -- git branch -- to fetch the availble branches -- git branch
+
+6th Step -- git status -- to fetch the file changes -- git status 
+
+7th Step -- git add .  -- to add the all modified files in repo  -- git add .
+
+8th Step -- git add file name -- to add the specfic modified file in repo  ---- git add "filename"
+
+9th step - git commit -m --- to commit the changes and along with the message  --- git commit -m "changes message"
+
+10th step - git push  -- to raise the Pull request for the first time ----  git push origin "current working branch name"
+
+11th step -- compare & pull request - to click on compare and pull request button >>  then create pull request button
+
+12th Step -- git pull  - to fetch the updated code frmo remote repository --- git pull origin main 
